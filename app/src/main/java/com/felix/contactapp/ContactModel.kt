@@ -1,4 +1,4 @@
-package com.kenneth.contactapp
+package com.felix.contactapp
 
 import android.os.Parcelable
 import androidx.room.Entity

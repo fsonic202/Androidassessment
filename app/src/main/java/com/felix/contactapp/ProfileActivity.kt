@@ -1,9 +1,9 @@
-package com.kenneth.contactapp
+package com.felix.contactapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.kenneth.contactapp.databinding.ActivityMainBinding
-import com.kenneth.contactapp.databinding.ActivityProfileBinding
+import com.felix.contactapp.databinding.ActivityMainBinding
+import com.felix.contactapp.databinding.ActivityProfileBinding
 
 lateinit var binding: ActivityProfileBinding
 

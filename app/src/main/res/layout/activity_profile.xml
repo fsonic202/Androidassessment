@@ -11,25 +11,25 @@
         android:layout_weight="80"
         android:id="@+id/image"
         android:scaleType="centerCrop"
-        android:src="@drawable/ic_contacts"/>
+        android:src="@drawable/ic_accountc"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/profileName"
         android:text="Profile Name"
-        android:layout_marginLeft="10dp"
+        android:layout_marginStart="32dp"
         android:layout_marginTop="20dp"
-        android:textSize="20sp"
+        android:textSize="30sp"
         android:textColor="#000"
-        android:textStyle="bold" />
+        android:textStyle="italic" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/profilePhoneNumber"
-        android:layout_marginLeft="10dp"
+        android:layout_marginStart="32dp"
         android:layout_marginTop="20dp"
         android:text="Profile Phone Number"
-        android:textSize="20sp"
+        android:textSize="30sp"
         android:textColor="#000"
         android:textStyle="italic" />
 
